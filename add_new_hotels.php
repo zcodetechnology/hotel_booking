@@ -17,7 +17,7 @@ include_once('header.php');
  	<div class="alert alert-<?php echo $notify_action; ?>">
       <?php echo $notify_message; ?>
   </div>
-  <form class="form-horizontal add_new_hotels" action="" method="POST" enctype="multipart/form-data">
+  <form class="form-horizontal add_new_hotels" action="" method="POST" enctype="multipart/form-data" name = "form">
     <div class="form-group">
       <label class="control-label col-sm-2" for="full_name">Full Name:</label>
       <div class="col-sm-10">
