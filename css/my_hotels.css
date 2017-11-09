@@ -1,0 +1,9 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.add_new_hotel_btn{
+	float: right;
+	width: 100px;
+}

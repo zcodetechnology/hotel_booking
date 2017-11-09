@@ -1,0 +1,20 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#full_name,#address, #city{
+
+}
+.add_new_hotels{
+	float: right;
+	width: 50%;
+	margin-top:50px;
+}
+.add .btn{
+	margin-left: 98px;
+	width: 458px;
+}
+.signin_area.submit{
+
+}
+
